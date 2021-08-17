@@ -1,0 +1,12 @@
+host = 127.0.0.1
+socket = False
+port = 3306
+schema = infocap
+charset = utf8
+collation = utf8_unicode_ci
+uri = ../application/core/database/config/mysql.dsn
+uri_content = False
+alias = False
+
+[options]
+ATTR_CASE = CASE_NATURAL
